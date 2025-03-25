@@ -8,5 +8,8 @@
  * @author Usuario
  */
 public class Persona {
+
+    public Persona() {
+    }
     
 }
