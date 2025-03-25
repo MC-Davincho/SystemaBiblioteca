@@ -8,7 +8,7 @@
  * @author Usuario
  */
 public class Persona {
-
+    private String persona;
     public Persona() {
     }
     
